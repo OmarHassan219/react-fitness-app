@@ -8,7 +8,7 @@ Built the website using nextjs, CMS (Sanity) , CSS, and Stripe API
 
 
 
-![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
+![Thumbnail](https://user-images.githubusercontent.com/93274331/197845018-2a78bb4c-f322-4a07-9433-ec304da46c2b.png)
 
 The idea is to gather all exercises whether it is a home workout or it requires
 a gym machine to make it easier to search the needed exercise depending on the target muscle or machine.
@@ -54,6 +54,6 @@ Before cloning/forking this project, make sure you have the following tools inst
 
 [//]: contributor-faces
 
-<a href="https://github.com/OmarHassan219"><img src="https://user-images.githubusercontent.com/93274331/197844576-742114a7-4a91-4af5-924e-9eb466f38498.jpg" title="Omar Hassan" width="80" height="80"></a>
+<a href="https://github.com/OmarHassan219"><img src="https://user-images.githubusercontent.com/93274331/197844576-742114a7-4a91-4af5-924e-9eb466f38498.jpg" title="Omar Hassan" width="80" height="80" style="border-radius:50%"></a>
 
 [//]: contributor-faces
