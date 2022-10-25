@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-## Available Scripts
+Built a list of workouts app that allows you to explore different workouts ,
+based on target muscle , machine and the relevant exercises .With animations and some related videos from YouTube , Responsive to all Screens.
+Built the website using nextjs, CMS (Sanity) , CSS, and Stripe API
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The idea is to gather all exercises whether it is a home workout or it requires
+a gym machine to make it easier to search the needed exercise depending on the target muscle or machine.
+In addition, there is also a section for youtube videos 
+that shows some channels showing the selected exercise  
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Live view by clicking the badge: [![Vercel Status](https://img.shields.io/badge/Vercel-success-Green?logo=vercel)](https://react-fitness-app-peach.vercel.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You can also clone the project and open it in localhost, or enjoy the preview
+video below instead :smile:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://user-images.githubusercontent.com/93274331/197843629-ffc9e2ee-8417-4872-b4e4-5d69a258da69.mp4
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Contribution
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To contribute to this project please check out the [contribution guidelines]().
 
-## Learn More
+## Prerequisits
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Before cloning/forking this project, make sure you have the following tools installed:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en/download/)
 
-### Code Splitting
+## Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Fork the project
+2. Clone the project
+3. Follow the instructions in the console:
+4. Navigate to the project directory cd sos-animals
+5. Install the dependencies npm install
+6. Run the project npm start
+()
 
-### Analyzing the Bundle Size
+## Contributors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[//]: contributor-faces
 
-### Making a Progressive Web App
+<a href="https://github.com/OmarHassan219"><img src="https://user-images.githubusercontent.com/93274331/197844576-742114a7-4a91-4af5-924e-9eb466f38498.jpg" title="Omar Hassan" width="80" height="80"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[//]: contributor-faces
